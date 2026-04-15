@@ -1,10 +1,25 @@
 <div align="center">
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%); padding: 80px 0; position: relative; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #333;">
+<div style="background: linear-gradient(to bottom, #000000 0%, #080808 100%); padding: 70px 0; position: relative; border-radius: 15px; border: 1px solid #222;">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=90&letterSpacing=35&duration=1&pause=0&color=FFFFFF&vCenter=true&center=true&width=800&lines=NEVU" alt="NEVU" style="text-shadow: 0 0 20px rgba(88,166,255,0.4);" />
+  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="chromeGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#003366;stop-opacity:1" />
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" font-family="'Poppins', sans-serif" font-size="95" font-weight="900" fill="url(#chromeGradient)" text-anchor="middle" dominant-baseline="central" letter-spacing="40" filter="url(#glow)">NEVU</text>
+  </svg>
   
-  <p style="font-size: 20px; color: #AAAAAA; margin: 25px 0 0 0; letter-spacing: 5px; font-family: 'Poppins', sans-serif; text-transform: uppercase; font-weight: 300;">Serial Builder • Web3 Architect • Tech Hustler</p>
+  <p style="font-size: 18px; color: #666666; margin: 10px 0 0 0; letter-spacing: 6px; font-family: 'Poppins', sans-serif; text-transform: uppercase; font-weight: 400;">Serial Builder • Web3 Architect • Tech Hustler</p>
 </div>
 
 <br/>
@@ -28,7 +43,7 @@
 Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thrive on building things from scratch, whether it's a complex ERP system, high-converting WordPress sites, or decentralized Web3 protocols. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
 
 * 🛠️ Architecting **Godplan**, a robust ERP SaaS system.
-* ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
+* ⛓️ Building on-chain protocols like **BaseBond** and **Vueta**.
 * 🛡️ Learning Security Basics to build more resilient applications.
 * 🕸️ Managing various Web2 assets from WordPress to custom Next.js builds.
 
