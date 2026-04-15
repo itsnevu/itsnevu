@@ -1,9 +1,21 @@
 <div align="center">
 
-<div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative;">
-  <h1 style="font-size: 85px; font-weight: 800; color: #FFFFFF; margin: 0; letter-spacing: 25px; font-family: 'Poppins', sans-serif; text-shadow: 2px 2px 10px rgba(255,255,255,0.1);">N<span style="color: #58a6ff;">E</span>V<span style="color: #58a6ff;">U</span></h1>
-  <p style="font-size: 18px; color: #888888; margin: 15px 0 0 0; letter-spacing: 4px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">Serial Builder • Web3 Architect • Tech Hustler</p>
+<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%); padding: 80px 0; position: relative; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #333;">
+  
+  <h1 style="font-size: 110px; font-weight: 900; color: #FFFFFF; margin: 0; letter-spacing: 35px; font-family: 'Poppins', sans-serif; text-transform: uppercase; background: linear-gradient(to right, #FFFFFF 20%, #58a6ff 40%, #58a6ff 60%, #FFFFFF 80%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% auto; animation: shine 3s linear infinite; text-shadow: 0 0 20px rgba(88,166,255,0.4);">NEVU</h1>
+  
+  <p style="font-size: 20px; color: #AAAAAA; margin: 25px 0 0 0; letter-spacing: 5px; font-family: 'Poppins', sans-serif; text-transform: uppercase; font-weight: 300;">Serial Builder • Web3 Architect • Tech Hustler</p>
 </div>
+
+<style>
+@keyframes shine {
+  to {
+    background-position: 200% auto;
+  }
+}
+</style>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Garden;Building+Thikra+Project;Exploring+NFTs+and+Smart+Contracts;Developing+Godplan+ERP;Always+Hustling+and+Solving+Problems)](https://git.io/typing-svg)
 
@@ -34,7 +46,7 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 | 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
 | :--- | :--- | :--- |
-| [**Thikra**](https://github.com/itsnevu) | [**Godplan ERP**](https://github.com/itsnevu) | [**Floraindonesia.com**](https://floraindonesia.com) |
+| [**Thikra**](https://github.com/itsnevu) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Floraindonesia.com**](https://floraindonesia.com) |
 | [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
 | [**Moltauto.xyz**](https://moltauto.xyz) | [**Reconstruction.id**](https://reconstruction.id) | [**Damsgarade.id**](https://damsgarade.id) |
 | [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Airon.site**](https://airon.site) |
@@ -91,7 +103,7 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 <div align="center">
 
-### 🧪 Current Focus
+### 🧪 Current Lab Focus
 ![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
 ![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
