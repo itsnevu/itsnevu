@@ -2,18 +2,10 @@
 
 <div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%); padding: 80px 0; position: relative; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #333;">
   
-  <h1 style="font-size: 110px; font-weight: 900; color: #FFFFFF; margin: 0; letter-spacing: 35px; font-family: 'Poppins', sans-serif; text-transform: uppercase; background: linear-gradient(to right, #FFFFFF 20%, #58a6ff 40%, #58a6ff 60%, #FFFFFF 80%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% auto; animation: shine 3s linear infinite; text-shadow: 0 0 20px rgba(88,166,255,0.4);">NEVU</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=90&letterSpacing=35&duration=1&pause=0&color=FFFFFF&vCenter=true&center=true&width=800&lines=NEVU" alt="NEVU" style="text-shadow: 0 0 20px rgba(88,166,255,0.4);" />
   
   <p style="font-size: 20px; color: #AAAAAA; margin: 25px 0 0 0; letter-spacing: 5px; font-family: 'Poppins', sans-serif; text-transform: uppercase; font-weight: 300;">Serial Builder • Web3 Architect • Tech Hustler</p>
 </div>
-
-<style>
-@keyframes shine {
-  to {
-    background-position: 200% auto;
-  }
-}
-</style>
 
 <br/>
 
