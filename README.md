@@ -37,7 +37,7 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 | [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
 | [**Moltauto.xyz**](https://moltauto.xyz) | [**Reconstruction.id**](https://reconstruction.id) | [**Damsgarade.id**](https://damsgarade.id) |
 | [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Airon.site**](https://airon.site) |
-| [**Clawscrap.xyz**](https://clawscrap.xyz) | [**Rameinaja.com**](https://rameinaja.com) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
+| [**Clawscrap.xyz**](https://clawscrap.xyz) | [**Socia.community**](https://socia.community) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
 
 <br/>
 
@@ -95,7 +95,7 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 <div align="center">
 
-### 🧪 Current Lab Focus
+### 🧪 Current Focus
 ![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
 ![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
