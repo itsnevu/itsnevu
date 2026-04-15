@@ -1,11 +1,11 @@
 <div align="center">
 
 <div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative;">
-  <h1 style="font-size: 80px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 8px; font-family: 'Poppins', sans-serif;">NAVY GIBRAN</h1>
-  <p style="font-size: 18px; color: #FFFFFF; margin: 15px 0 0 0; letter-spacing: 1px; font-family: 'Poppins', sans-serif;">Builder | Pentester | Web3 Architect</p>
+  <h1 style="font-size: 80px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 8px; font-family: 'Poppins', sans-serif;">NEVU</h1>
+  <p style="font-size: 18px; color: #FFFFFF; margin: 15px 0 0 0; letter-spacing: 1px; font-family: 'Poppins', sans-serif;">Hustler | Web3 Builder | Tech Enthusiast</p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Garden;Security+Researcher;Building+MoltAuto.xyz;Web3+and+Smart+Contract;Vibe+Coding+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Garden;Building+Thikra+Project;Exploring+NFTs+and+Smart+Contracts;Developing+Godplan+ERP;Always+Hustling+and+Solving+Problems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,50 +21,49 @@
 
 ## 👤 About Me
 
-Hey there! I'm **Nevu**, a security-minded developer from Indonesia. I build complex systems using **Vibe Coding** workflows and AI agents. Currently focusing on scaling decentralized protocols and automated trading colonies.
+Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thrive on building things from scratch, whether it's a complex ERP system, high-converting WordPress sites, or decentralized Web3 protocols. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
 
-* 🛡️ **Penetration Tester** & Assistant Lab Instructor.
-* 🏗️ Architecting **Clean Architecture** backends & **Optimistic UI** frontends.
-* ⛓️ Deep diving into **Base Ecosystem** & **Farcaster Protocol**.
-* 🤖 Currently developing **MoltAuto.xyz** & **Thikra (AI Chess)**.
-
-<br/>
-
-## 🏆 Achievements & Milestones
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsnevu&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=15" alt="github trophy" />
-</div>
+* 🛠️ Architecting **Godplan**, a robust ERP SaaS system.
+* ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
+* 🛡️ Learning Security Basics to build more resilient applications.
+* 🕸️ Managing various Web2 assets from WordPress to custom Next.js builds.
 
 <br/>
 
-## 🛠 Tech Stack & Tools
+## 🚀 Projects Snapshot
+
+| 🌐 Web3 & AI Projects | 🏗️ Web2 & ERP Projects |
+| :--- | :--- |
+| [**Thikra**](https://github.com/itsnevu) - AI Agent Chess | [**Godplan**](https://github.com/itsnevu) - ERP System |
+| [**BaseBond**](https://basebond.vercel.app/) - On-chain Event | [**WinFaith**](https://winfaith.com) / [**Reconstruction**](https://reconstruction.id) |
+| [**MoltAuto**](https://moltauto.xyz) - AI Colony | [**YRM**](https://yrm.co.id) / [**Rameinaja**](https://rameinaja.com) |
+| [**ClawCook**](https://clawcook.xyz) / [**ClawScrap**](https://clawscrap.xyz) | [**MiniaturKapal**](https://miniaturkapal.com) / [**Socia**](https://socia.community) |
+
+<br/>
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Core Development
+### Development
 ![Go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Frontend & UI
+### Frameworks & Tools
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Infra & Security
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Security_Basic-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 </div>
 
 <br/>
 
-## 📊 Analytics & Performance
+## 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" width="48%" />
@@ -80,7 +79,7 @@ Hey there! I'm **Nevu**, a security-minded developer from Indonesia. I build com
 
 <br/>
 
-## ⏳ Weekly Activity Graph
+## ⏳ Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsnevu&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%" />
 </div>
@@ -91,9 +90,9 @@ Hey there! I'm **Nevu**, a security-minded developer from Indonesia. I build com
 
 <div align="center">
 
-### 🛡️ Security Lab Status
-![Pentest Status](https://img.shields.io/badge/Lab_Status-Active-white?style=for-the-badge&logo=kali-linux&logoColor=black)
-![Last Update](https://img.shields.io/badge/Last_Commit-Daily-white?style=for-the-badge&logo=github&logoColor=black)
+### 🧪 Current Lab Focus
+![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
+![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
 <br/>
 
