@@ -81,14 +81,12 @@ Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building 
 ## WakaTime Stats
 
 <div align="center">
-  
-[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg)](https://wakatime.com/@nepskuy)
+
+[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg)](https://wakatime.com)
 
 <br/><br/>
 
-<a href="https://wakatime.com/@nepskuy">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nepskuy&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
-</a>
+<img src="https://wakatime.com/share/@3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46/9a4b3c1d-pie_chart.png" />
 
 </div>
 
