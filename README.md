@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/navygibran)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navygibran)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navygibran16@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nepskuy)
+[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://nepskuy.dev)
 
 </div>
@@ -67,34 +67,30 @@ Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building 
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nepskuy&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsnevu&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 </div>
-
-
 
 ## WakaTime Stats
 
 <div align="center">
   
-[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg)](https://wakatime.com/@nepskuy)
+[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg)](https://wakatime.com/@itsnevu)
 
 <br/><br/>
 
-<a href="https://wakatime.com/@nepskuy">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nepskuy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=10&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+<a href="https://wakatime.com/@itsnevu">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsnevu&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=10&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
 </a>
 
 </div>
 
 <br/>
-
-
 
 ## Let's Connect
 
@@ -121,13 +117,13 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 ### Profile Stats
 
-![](https://komarev.com/ghpvc/?username=nepskuy&label=Profile%20Views&color=000000&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/nepskuy?style=for-the-badge&color=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/nepskuy?style=for-the-badge&color=000000)
+![](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/itsnevu?style=for-the-badge&color=000000)
 
 <br/>
 
-**From [nepskuy](https://github.com/nepskuy) | Built with dedication**
+**From [itsnevu](https://github.com/itsnevu) | Built with dedication**
 
 <br/>
 
