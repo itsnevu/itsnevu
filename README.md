@@ -1,8 +1,8 @@
 <div align="center">
 
 <div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative;">
-  <h1 style="font-size: 80px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 8px; font-family: 'Poppins', sans-serif;">NEVU</h1>
-  <p style="font-size: 18px; color: #FFFFFF; margin: 15px 0 0 0; letter-spacing: 1px; font-family: 'Poppins', sans-serif;">Hustler | Web3 Builder | Tech Enthusiast</p>
+  <h1 style="font-size: 85px; font-weight: 800; color: #FFFFFF; margin: 0; letter-spacing: 25px; font-family: 'Poppins', sans-serif; text-shadow: 2px 2px 10px rgba(255,255,255,0.1);">N<span style="color: #58a6ff;">E</span>V<span style="color: #58a6ff;">U</span></h1>
+  <p style="font-size: 18px; color: #888888; margin: 15px 0 0 0; letter-spacing: 4px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">Serial Builder • Web3 Architect • Tech Hustler</p>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Garden;Building+Thikra+Project;Exploring+NFTs+and+Smart+Contracts;Developing+Godplan+ERP;Always+Hustling+and+Solving+Problems)](https://git.io/typing-svg)
@@ -32,12 +32,13 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 ## 🚀 Projects Snapshot
 
-| 🌐 Web3 & AI Projects | 🏗️ Web2 & ERP Projects |
-| :--- | :--- |
-| [**Thikra**](https://github.com/itsnevu) - AI Agent Chess | [**Godplan**](https://github.com/itsnevu) - ERP System |
-| [**BaseBond**](https://basebond.vercel.app/) - On-chain Event | [**WinFaith**](https://winfaith.com) / [**Reconstruction**](https://reconstruction.id) |
-| [**MoltAuto**](https://moltauto.xyz) - AI Colony | [**YRM**](https://yrm.co.id) / [**Rameinaja**](https://rameinaja.com) |
-| [**ClawCook**](https://clawcook.xyz) / [**ClawScrap**](https://clawscrap.xyz) | [**MiniaturKapal**](https://miniaturkapal.com) / [**Socia**](https://socia.community) |
+| 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
+| :--- | :--- | :--- |
+| [**Thikra**](https://github.com/itsnevu) | [**Godplan ERP**](https://github.com/itsnevu) | [**Floraindonesia.com**](https://floraindonesia.com) |
+| [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
+| [**Moltauto.xyz**](https://moltauto.xyz) | [**Reconstruction.id**](https://reconstruction.id) | [**Damsgarade.id**](https://damsgarade.id) |
+| [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Airon.site**](https://airon.site) |
+| [**Clawscrap.xyz**](https://clawscrap.xyz) | [**Rameinaja.com**](https://rameinaja.com) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
 
 <br/>
 
@@ -63,7 +64,7 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 <br/>
 
-## 📊 Performance Metrics
+## 📊 Analytics & Performance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" width="48%" />
@@ -90,7 +91,7 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 <div align="center">
 
-### 🧪 Current Lab Focus
+### 🧪 Current Focus
 ![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
 ![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
