@@ -1,26 +1,6 @@
 <div align="center">
 
-<div style="background: linear-gradient(to bottom, #000000 0%, #080808 100%); padding: 70px 0; position: relative; border-radius: 15px; border: 1px solid #222;">
-  
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="chromeGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#003366;stop-opacity:1" />
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" font-family="'Poppins', sans-serif" font-size="95" font-weight="900" fill="url(#chromeGradient)" text-anchor="middle" dominant-baseline="central" letter-spacing="40" filter="url(#glow)">NEVU</text>
-  </svg>
-  
-  <p style="font-size: 18px; color: #666666; margin: 10px 0 0 0; letter-spacing: 6px; font-family: 'Poppins', sans-serif; text-transform: uppercase; font-weight: 400;">Serial Builder • Web3 Architect • Tech Hustler</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=300&section=header&text=NEVU&fontSize=150&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=Serial%20Builder%20%7C%20Web3%20Architect%20%7C%20Tech%20Hustler&descSize=25&descAlignY=75" width="100%" />
 
 <br/>
 
@@ -43,7 +23,7 @@
 Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thrive on building things from scratch, whether it's a complex ERP system, high-converting WordPress sites, or decentralized Web3 protocols. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
 
 * 🛠️ Architecting **Godplan**, a robust ERP SaaS system.
-* ⛓️ Building on-chain protocols like **BaseBond** and **Vueta**.
+* ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
 * 🛡️ Learning Security Basics to build more resilient applications.
 * 🕸️ Managing various Web2 assets from WordPress to custom Next.js builds.
 
@@ -65,17 +45,22 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 <div align="center">
 
-### Development
-![Go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)
+### Languages & Frontend
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Others
 ![Solidity](https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### Frameworks & Tools
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Security_Basic-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 
