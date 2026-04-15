@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navygibran)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navygibran16@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://nepskuy.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnevu.xyz)
 
 </div>
 
@@ -33,11 +33,11 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 | 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
 | :--- | :--- | :--- |
-| [**Thikra**](https://github.com/itsnevu) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Floraindonesia.com**](https://floraindonesia.com) |
-| [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
-| [**Moltauto.xyz**](https://moltauto.xyz) | [**Reconstruction.id**](https://reconstruction.id) | [**Damsgarade.id**](https://damsgarade.id) |
-| [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Airon.site**](https://airon.site) |
-| [**Vueta**](https://github.com/itsnevu) | [**Socia.community**](https://socia.community) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
+| [**Vueta.xyz**](https://vueta.xyz) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**itsnevu.xyz**](https://itsnevu.xyz) |
+| [**Thikra**](https://github.com/itsnevu) | [**Socia.community**](https://socia.community) | [**Floraindonesia.com**](https://floraindonesia.com) |
+| [**Moltauto.xyz**](https://moltauto.xyz) | [**Winfaith.com**](https://winfaith.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
+| [**BaseBond**](https://basebond.vercel.app/) | [**Reconstruction.id**](https://reconstruction.id) | [**Damsgarade.id**](https://damsgarade.id) |
+| [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
 
 <br/>
 
