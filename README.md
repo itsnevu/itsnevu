@@ -25,12 +25,12 @@
 
 ## 👤 About Me
 
-Hey there! [cite_start]I'm **Nevu**, a versatile **Informatics Student at UMN** (2022) [cite: 10] and a dedicated **Builder** from Indonesia. I thrive on building things from scratch, whether it's complex ERP systems, high-converting WordPress sites, or decentralized Web3 protocols. 
+Hey there! I'm **Nevu**, a versatile **Informatics Student at UMN** (2022) and a dedicated **Builder** from Indonesia. I thrive on building things from scratch, whether it's complex ERP systems, high-converting WordPress sites, or decentralized Web3 protocols. 
 
 Beyond building, I have a year of experience as an **OOP Teaching Assistant**, helping others master clean code and software design. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
 
-* [cite_start]🛠️ Architecting **Godplan**, a robust ERP SaaS system using Go and Next.js[cite: 23].
-* [cite_start]🏛️ Previously developed **JAKASN** at BKN, integrating OJS with modern UI[cite: 21].
+* 🛠️ Architecting **Godplan**, a robust ERP SaaS system using Go and Next.js.
+* 🏛️ Previously developed **JAKASN** at BKN, integrating OJS with modern UI.
 * ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
 * 🛡️ Learning Security Basics to build more resilient applications.
 * 🕸️ Founder of **Godjah Studio**, managing assets from **Graciabox.id** to **Yrm.co.id**.
@@ -41,7 +41,7 @@ Beyond building, I have a year of experience as an **OOP Teaching Assistant**, h
 
 | 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
 | :--- | :--- | :--- |
-| [**Vueta.xyz**](https://vueta.xyz) | [cite_start][**Godplan ERP**](https://godplan-erp.godjahstudio.com/) [cite: 23] | [**Godjahstudio.com**](https://godjahstudio.com) |
+| [**Vueta.xyz**](https://vueta.xyz) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) |
 | [**Thikra**](https://github.com/itsnevu) | [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |
 | [**Moltauto.xyz**](https://moltauto.xyz) | [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
 | [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Damsgarade.id**](https://damsgarade.id) |
