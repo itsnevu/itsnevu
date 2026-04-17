@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=300&section=header&text=NEVU&fontSize=150&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=Serial%20Builder%20%7C%20Web3%20Architect%20%7C%20Tech%20Hustler&descSize=25&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=300&section=header&text=NEVU&fontSize=150&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=Builder%20%7C%20Web3%20Architect%20%7C%20Tech%20Hustler&descSize=25&descAlignY=75" width="100%" />
 
 <br/>
 
@@ -25,12 +25,15 @@
 
 ## 👤 About Me
 
-Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thrive on building things from scratch, whether it's a complex ERP system, high-converting WordPress sites, or decentralized Web3 protocols. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
+Hey there! [cite_start]I'm **Nevu**, a versatile **Informatics Student at UMN** (2022) [cite: 10] and a dedicated **Builder** from Indonesia. I thrive on building things from scratch, whether it's complex ERP systems, high-converting WordPress sites, or decentralized Web3 protocols. 
 
-* 🛠️ Architecting **Godplan**, a robust ERP SaaS system.
+Beyond building, I have a year of experience as an **OOP Teaching Assistant**, helping others master clean code and software design. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
+
+* [cite_start]🛠️ Architecting **Godplan**, a robust ERP SaaS system using Go and Next.js[cite: 23].
+* [cite_start]🏛️ Previously developed **JAKASN** at BKN, integrating OJS with modern UI[cite: 21].
 * ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
 * 🛡️ Learning Security Basics to build more resilient applications.
-* 🕸️ Managing various Web2 assets from WordPress to custom Next.js builds.
+* 🕸️ Founder of **Godjah Studio**, managing assets from **Graciabox.id** to **Yrm.co.id**.
 
 <br/>
 
@@ -38,10 +41,10 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 | 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
 | :--- | :--- | :--- |
-| [**Vueta.xyz**](https://vueta.xyz) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Floraindonesia.com**](https://floraindonesia.com) |
-| [**Thikra**](https://github.com/itsnevu) | [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
-| [**Moltauto.xyz**](https://moltauto.xyz) | [**Winfaith.com**](https://winfaith.com) | [**Damsgarade.id**](https://damsgarade.id) |
-| [**BaseBond**](https://basebond.vercel.app/) | [**Reconstruction.id**](https://reconstruction.id) | [**Airon.site**](https://airon.site) |
+| [**Vueta.xyz**](https://vueta.xyz) | [cite_start][**Godplan ERP**](https://godplan-erp.godjahstudio.com/) [cite: 23] | [**Godjahstudio.com**](https://godjahstudio.com) |
+| [**Thikra**](https://github.com/itsnevu) | [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |
+| [**Moltauto.xyz**](https://moltauto.xyz) | [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
+| [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Damsgarade.id**](https://damsgarade.id) |
 | [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
 
 <br/>
@@ -60,8 +63,8 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 ### Backend & Databases
 ![Go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Others
 ![Solidity](https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
@@ -82,20 +85,6 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&theme=dark&hide_border=true&bg_color=000000&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsnevu&theme=dark&hide_border=true&bg_color=000000&layout=compact" width="48%" />
-</div>
-
-<br/>
-
-## ⏳ Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsnevu&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%" />
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
@@ -103,13 +92,6 @@ Hey there! I'm **Nevu**, a versatile developer and hustler from Indonesia. I thr
 ### 🧪 Current Lab Focus
 ![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
 ![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
-
-<br/>
-
-### Profile Stats
-![](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/itsnevu?style=for-the-badge&color=000000)
 
 <br/>
 
