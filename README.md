@@ -33,7 +33,7 @@ Beyond building, I have a year of experience as an **OOP Teaching Assistant**, h
 * 🏛️ Previously developed **JAKASN** at BKN, integrating OJS with modern UI.
 * ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
 * 🛡️ Learning Security Basics to build more resilient applications.
-* 🕸️ Founder of **Godjah Studio**, managing assets from **Graciabox.id** to **Yrm.co.id**.
+* 🕸️ **Head and Founder Godweb di Gajah Terbang Kreatif**, managing assets from **Graciabox.id** to **Yrm.co.id**.
 
 <br/>
 
