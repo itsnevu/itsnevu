@@ -176,8 +176,8 @@ I'm always interested in collaborating on interesting projects or discussing tec
 <div align="center">
 
 ### 🧪 Current Lab Focus
-![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
-![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
+![Project Status](https://img.shields.io/badge/Status-Building_CROO_HACKATHON-white?style=for-the-badge&logo=target&logoColor=black)
+![Learning](https://img.shields.io/badge/Learning-DeFi-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
 <br/>
 
