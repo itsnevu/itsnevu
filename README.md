@@ -1,6 +1,8 @@
 <div align="center">
 
-<div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative;">
+<img src="./img/bg.gif" width="100%" style="border-radius: 10px;" alt="Background Banner" />
+
+<div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative; margin-top: -10px;">
   <h1 style="font-size: 80px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 8px; font-family: 'Poppins', sans-serif;">NAVY GIBRAN</h1>
   <p style="font-size: 18px; color: #FFFFFF; margin: 15px 0 0 0; letter-spacing: 1px; font-family: 'Poppins', sans-serif;">Builder | Love to solve problem</p>
 </div>
@@ -19,7 +21,7 @@
 
 <br/>
 
-## 👤 About Me
+## 👤 About Me <img src="./img/mona-whisper.gif" width="30px" align="right" />
 
 Hey there! I'm **Navy Gibran**, a versatile **Informatics Student at UMN** (2022) and a dedicated **Builder** from Indonesia. I thrive on building things from scratch, whether it's complex ERP systems, high-converting WordPress sites, or decentralized Web3 protocols. 
 
@@ -152,7 +154,7 @@ Beyond building, I have a year of experience as an **OOP Teaching Assistant**, h
 
 
 
-## Let's Connect
+## Let's Connect <img src="./img/popcat.gif" width="40px" align="right" />
 
 <div align="center">
 
