@@ -19,9 +19,29 @@
 
 <br/>
 
-## About Me
+## 👤 About Me
 
-Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building things and solving problems. I've been exploring various technologies across the web development spectrum, from backend systems to frontend interfaces. Currently, I'm diving deep into Web3 development, particularly focusing on smart contract development. The decentralized future fascinates me, and I'm excited to be part of this revolutionary space where blockchain technology is reshaping how we think about applications and digital ownership.
+Hey there! I'm **Navy Gibran**, a versatile **Informatics Student at UMN** (2022) and a dedicated **Builder** from Indonesia. I thrive on building things from scratch, whether it's complex ERP systems, high-converting WordPress sites, or decentralized Web3 protocols. 
+
+Beyond building, I have a year of experience as an **OOP Teaching Assistant**, helping others master clean code and software design. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
+
+* 🛠️ Architecting **Godplan**, a robust ERP SaaS system using Go and Next.js.
+* 🏛️ Previously developed **JAKASN** at BKN, integrating OJS with modern UI.
+* ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
+* 🛡️ Learning Security Basics to build more resilient applications.
+* 🕸️ Founder of **Godjah Studio**, managing assets from **Graciabox.id** to **Yrm.co.id**.
+
+<br/>
+
+## 🚀 Projects Snapshot
+
+| 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
+| :--- | :--- | :--- |
+| [**Vueta.xyz**](https://vueta.xyz) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) |
+| [**Thikra**](https://github.com/itsnevu) | [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |
+| [**Moltauto.xyz**](https://moltauto.xyz) | [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
+| [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Damsgarade.id**](https://damsgarade.id) |
+| [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
 
 <br/>
 
@@ -64,7 +84,16 @@ Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building 
 
 <br/>
 
-## GitHub Statistics
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnevu&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
@@ -88,12 +117,13 @@ Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building 
 </div>
 
 
+---
 
 ## ⏱️ WakaTime Stats
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg)](https://wakatime.com/@itsnevu)
+[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg?style=for-the-badge&color=000000)](https://wakatime.com/@3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46)
 
 <br/>
 
@@ -144,6 +174,12 @@ I'm always interested in collaborating on interesting projects or discussing tec
 ---
 
 <div align="center">
+
+### 🧪 Current Lab Focus
+![Project Status](https://img.shields.io/badge/Status-Building_Thikra-white?style=for-the-badge&logo=target&logoColor=black)
+![Learning](https://img.shields.io/badge/Learning-NFT_Security-white?style=for-the-badge&logo=ethereum&logoColor=black)
+
+<br/>
 
 ### Profile Stats
 
