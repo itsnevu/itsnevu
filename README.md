@@ -20,11 +20,9 @@
 
 Hey! I'm **Navy Gibran**, an **Informatics Student** (UMN '22) and **Builder** from Indonesia. I love turning complex ideas into reality—from scalable ERPs and Web3 protocols to AI-driven apps.
 
-* 🎓 **Ex-OOP Teaching Assistant** passionate about clean code & software design.
-* 🛠️ Architecting **Godplan** (ERP SaaS) & previously built **JAKASN** (BKN).
-* ⛓️ Building on-chain protocols like **BaseBond** & **MoltAuto**.
-* 🛡️ Deep-diving into **Cybersecurity**, **NFTs**, and **AI Chess (Thikra)**.
-* 🕸️ Founder of **Godjah Studio** (Graciabox.id, Yrm.co.id).
+* ⛓️ Exploring the world of **Web3 & DeFi**.
+* 🤖 Deep-diving into **AI & Machine Learning**.
+* ⚙️ Passionate about building **Automated Tools** to simplify workflows.
 
 <br/>
 
@@ -80,7 +78,6 @@ Hey! I'm **Navy Gibran**, an **Informatics Student** (UMN '22) and **Builder** f
 <br/>
 
 
----
 
 ## ⏱️ WakaTime Stats
 
@@ -124,7 +121,6 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <br/>
 
----
 
 <div align="center">
 
