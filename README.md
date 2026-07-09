@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="./img/bg.gif" width="100%" style="border-radius: 10px;" alt="Background Banner" />
-
-<div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative; margin-top: -10px;">
-  <h1 style="font-size: 80px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 8px; font-family: 'Poppins', sans-serif;">NAVY GIBRAN</h1>
-  <p style="font-size: 18px; color: #FFFFFF; margin: 15px 0 0 0; letter-spacing: 1px; font-family: 'Poppins', sans-serif;">Builder | Love to solve problem</p>
-</div>
+<img src="./img/header.svg" width="100%" style="border-radius: 10px;" alt="NAVY GIBRAN Banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;Tech+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -21,17 +16,15 @@
 
 <br/>
 
-## 👤 About Me <img src="./img/mona-whisper.gif" width="30px" align="right" />
+## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
 
-Hey there! I'm **Navy Gibran**, a versatile **Informatics Student at UMN** (2022) and a dedicated **Builder** from Indonesia. I thrive on building things from scratch, whether it's complex ERP systems, high-converting WordPress sites, or decentralized Web3 protocols. 
+Hey! I'm **Navy Gibran**, an **Informatics Student** (UMN '22) and **Builder** from Indonesia. I love turning complex ideas into reality—from scalable ERPs and Web3 protocols to AI-driven apps.
 
-Beyond building, I have a year of experience as an **OOP Teaching Assistant**, helping others master clean code and software design. Currently deep-diving into **NFTs**, **AI-driven Chess (Thikra)**, and strengthening my **Cybersecurity** fundamentals.
-
-* 🛠️ Architecting **Godplan**, a robust ERP SaaS system using Go and Next.js.
-* 🏛️ Previously developed **JAKASN** at BKN, integrating OJS with modern UI.
-* ⛓️ Building on-chain protocols like **BaseBond** and **MoltAuto**.
-* 🛡️ Learning Security Basics to build more resilient applications.
-* 🕸️ Founder of **Godjah Studio**, managing assets from **Graciabox.id** to **Yrm.co.id**.
+* 🎓 **Ex-OOP Teaching Assistant** passionate about clean code & software design.
+* 🛠️ Architecting **Godplan** (ERP SaaS) & previously built **JAKASN** (BKN).
+* ⛓️ Building on-chain protocols like **BaseBond** & **MoltAuto**.
+* 🛡️ Deep-diving into **Cybersecurity**, **NFTs**, and **AI Chess (Thikra)**.
+* 🕸️ Founder of **Godjah Studio** (Graciabox.id, Yrm.co.id).
 
 <br/>
 
@@ -86,38 +79,6 @@ Beyond building, I have a year of experience as an **OOP Teaching Assistant**, h
 
 <br/>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnevu&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>My Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsnevu/itsnevu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsnevu/itsnevu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/itsnevu/itsnevu/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsnevu&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
-</div>
-
 
 ---
 
@@ -127,17 +88,7 @@ Beyond building, I have a year of experience as an **OOP Teaching Assistant**, h
 
 [![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg?style=for-the-badge&color=000000)](https://wakatime.com/@3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46)
 
-<br/>
 
-<a href="https://wakatime.com/@itsnevu">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsnevu&layout=default&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=8&custom_title=📊%20Coding%20Activity%20(Last%207%20Days)" alt="WakaTime Stats" />
-</a>
-
-<br/>
-
-<a href="https://wakatime.com/@itsnevu">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsnevu&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=10&custom_title=🧠%20Top%20Languages" alt="WakaTime Top Languages" />
-</a>
 
 </div>
 
@@ -154,7 +105,7 @@ Beyond building, I have a year of experience as an **OOP Teaching Assistant**, h
 
 
 
-## Let's Connect <img src="./img/popcat.gif" width="40px" align="right" />
+## Let's Connect <img src="./img/popcat.gif" width="100px" align="right" />
 
 <div align="center">
 
