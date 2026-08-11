@@ -18,23 +18,25 @@
 
 ## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
 
-Hey! I'm **Navy Gibran**, an **Informatics Student** (UMN '22) and **Builder** from Indonesia. I love turning complex ideas into reality—from scalable ERPs and Web3 protocols to AI-driven apps.
+Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** from Indonesia. I love turning complex ideas into reality—from scalable ERPs and Web3 protocols to AI-driven apps.
 
-* ⛓️ Exploring the world of **Web3 & DeFi**.
 * 🤖 Deep-diving into **AI & Machine Learning**.
+* 🧠 Building intelligent systems with **Deep Learning & NLP**.
 * ⚙️ Passionate about building **Automated Tools** to simplify workflows.
 
 <br/>
 
 ## 🚀 Projects Snapshot
 
-| 🌐 Web3 & AI | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce |
+| 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce | 🤖 Machine Learning |
 | :--- | :--- | :--- |
-| [**Vueta.xyz**](https://vueta.xyz) | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) |
-| [**Thikra**](https://github.com/itsnevu) | [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |
-| [**Moltauto.xyz**](https://moltauto.xyz) | [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |
-| [**BaseBond**](https://basebond.vercel.app/) | [**Winfaith.com**](https://winfaith.com) | [**Damsgarade.id**](https://damsgarade.id) |
-| [**Clawcook.xyz**](https://clawcook.xyz) | [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |
+| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
+| [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |  |
+| [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |  |
+| [**Yrm.co.id**](https://yrm.co.id) | [**Damsgarade.id**](https://damsgarade.id) |  |
+| [**Reconstruction.id**](https://reconstruction.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |  |
+| [**Fortunarack.id**](https://fortunarack.id) | [**Littleaivy.com**](https://littleaivy.com) |  |
+|  | [**Izzi-bsd.com**](https://izzi-bsd.com) |  |
 
 <br/>
 
@@ -77,6 +79,30 @@ Hey! I'm **Navy Gibran**, an **Informatics Student** (UMN '22) and **Builder** f
 
 <br/>
 
+
+
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnevu&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsnevu&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
 
 
 ## ⏱️ WakaTime Stats
@@ -125,8 +151,8 @@ I'm always interested in collaborating on interesting projects or discussing tec
 <div align="center">
 
 ### 🧪 Current Lab Focus
-![Project Status](https://img.shields.io/badge/Status-Building_CROO_HACKATHON-white?style=for-the-badge&logo=target&logoColor=black)
-![Learning](https://img.shields.io/badge/Learning-DeFi-white?style=for-the-badge&logo=ethereum&logoColor=black)
+![Project Status](https://img.shields.io/badge/Status-Extension_Cowork-white?style=for-the-badge&logo=target&logoColor=black)
+![Learning](https://img.shields.io/badge/Learning-Machine_Learning-white?style=for-the-badge&logo=tensorflow&logoColor=black)
 
 <br/>
 
