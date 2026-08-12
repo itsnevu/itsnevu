@@ -81,8 +81,8 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves ngulik **AI**, **Ma
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true&disable_animations=true" />
 
 </div>
 
