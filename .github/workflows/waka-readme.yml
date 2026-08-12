@@ -17,6 +17,7 @@ jobs:
   update-readme:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+    environment: wakatime
 
     steps:
       - uses: athul/waka-readme@master
