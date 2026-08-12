@@ -27,7 +27,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves exploring **AI**, *
 | 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce | 🤖 Machine Learning |
 | :--- | :--- | :--- |
 | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
-| [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |  |
+| [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |  [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection)  |
 | [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |  |
 | [**Yrm.co.id**](https://yrm.co.id) | [**Damsgarade.id**](https://damsgarade.id) |  |
 | [**Reconstruction.id**](https://reconstruction.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |  |
