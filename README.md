@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./img/header.svg" width="100%" style="border-radius: 10px;" alt="NAVY GIBRAN Banner" />
+<img src="./img/header.svg" width="100%" style="border-radius: 10px;" alt="itsnevu Banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;Tech+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 
 ## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
 
-Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves ngulik **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
+Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
 
 <br/>
 
