@@ -85,20 +85,20 @@ Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** f
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnevu&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnevu&theme=dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=onestar&no-frame=true&row=1&column=6" />
 
 </div>
 
