@@ -92,7 +92,7 @@ Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnevu&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats-teal-seven.vercel.app/?user=itsnevu&theme=dark&hide_border=true" />
 
 </div>
 
