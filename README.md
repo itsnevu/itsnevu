@@ -122,6 +122,17 @@ Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** f
 > 🤖 Auto-updated daily via GitHub Actions
 
 <!--START_SECTION:waka-->
+
+```text
+From: 04 August 2026 - To: 11 August 2026
+
+TypeScript   8 hrs 50 mins         █████████████████▓░░░░░░░   70.02 %
+Markdown     2 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+TSConfig     29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Prisma       21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
