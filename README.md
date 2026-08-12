@@ -98,7 +98,7 @@ Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** f
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsnevu&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
