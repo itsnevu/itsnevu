@@ -18,11 +18,7 @@
 
 ## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
 
-Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** from Indonesia. I love turning complex ideas into reality—from scalable ERPs and Web3 protocols to AI-driven apps.
-
-* 🤖 Deep-diving into **AI & Machine Learning**.
-* 🧠 Building intelligent systems with **Deep Learning & NLP**.
-* ⚙️ Passionate about building **Automated Tools** to simplify workflows.
+Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves ngulik **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
 
 <br/>
 
@@ -85,8 +81,8 @@ Hey! I'm **itsnevu**, a **Web Developer** at **Godjah Studio** and **Builder** f
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
