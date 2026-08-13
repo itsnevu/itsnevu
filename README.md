@@ -120,13 +120,13 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves exploring **AI**, *
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-TypeScript   8 hrs 50 mins         █████████████████▓░░░░░░░   70.02 %
-Markdown     2 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-TSConfig     29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Prisma       21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+TypeScript   8 hrs 26 mins         ██████████████████▓░░░░░░   74.52 %
+Markdown     1 hr 46 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+TSConfig     29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+YAML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other        9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
