@@ -20,7 +20,7 @@
 
 Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products** from idea to shipped, and exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
 
-[![Products Shipped](https://img.shields.io/badge/Products_Shipped-15%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
+[![Products Shipped](https://img.shields.io/badge/Products_Shipped-20%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
 ![Idea to Ship](https://img.shields.io/badge/Mode-Idea_%E2%86%92_Shipped-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 [![Open Source](https://img.shields.io/badge/Open_Source-Flowkite-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu/Flowkite)
 
@@ -40,15 +40,16 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 ## 🚀 Projects Snapshot
 
-| 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce | 🤖 AI & Machine Learning |
-| :--- | :--- | :--- |
-| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Flowkite**](https://github.com/itsnevu/Flowkite) |
-| [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
-| [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) | [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection) |
-| [**Yrm.co.id**](https://yrm.co.id) | [**Damsgarade.id**](https://damsgarade.id) |  |
-| [**Reconstruction.id**](https://reconstruction.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |  |
-| [**Fortunarack.id**](https://fortunarack.id) | [**Littleaivy.com**](https://littleaivy.com) |  |
-|  | [**Izzi-bsd.com**](https://izzi-bsd.com) |  |
+| 🏗️ ERP & Platforms | 🏭 Manufacturing & Trade | 🛍️ Commerce & Services | 🤖 AI & Machine Learning |
+| :--- | :--- | :--- | :--- |
+| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Fortunarack.co.id**](https://fortunarack.co.id) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Flowkite**](https://github.com/itsnevu/Flowkite) |
+| [**Socia.community**](https://socia.community) | [**Dutamesh.com**](https://dutamesh.com) | [**Floraindonesia.com**](https://floraindonesia.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
+| [**Reconstruction.id**](https://reconstruction.id) | [**Kusentangsel.com**](https://kusentangsel.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) | [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection) |
+| [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) | [**Littleaivy.com**](https://littleaivy.com) |  |
+| [**Graciabox.id**](https://graciabox.id) | [**Orthobone.store**](https://orthobone.store) | [**Ubbonlinepartners.id**](https://ubbonlinepartners.id) |  |
+| [**Izzi-bsd.com**](https://izzi-bsd.com) | [**Airon.site**](https://airon.site) | [**Nudelisius.com**](https://nudelisius.com) |  |
+|  |  | [**Ratherabeautystudio.com**](https://ratherabeautystudio.com) |  |
+|  |  | [**Damsgarage.id**](https://damsgarage.id) |  |
 
 <br/>
 
