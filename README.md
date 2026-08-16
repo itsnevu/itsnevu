@@ -208,6 +208,14 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <br/>
 
+### Profile Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/itsnevu?style=for-the-badge&color=000000)
+
+<br/>
+
 **From [itsnevu](https://github.com/itsnevu) | Built with dedication**
 
 <br/>
