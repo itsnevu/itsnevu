@@ -2,7 +2,7 @@
 
 <img src="./img/header.svg" width="100%" style="border-radius: 10px;" alt="itsnevu Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;Tech+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;I+Build+Products%2C+Not+Just+Code;From+Idea+to+Shipped;Tech+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,17 +18,21 @@
 
 ## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
 
-Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
+Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products** — from idea to shipped — and exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
+
+[![Products Shipped](https://img.shields.io/badge/Products_Shipped-15%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
+![Idea to Ship](https://img.shields.io/badge/Mode-Idea_%E2%86%92_Shipped-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Open Source](https://img.shields.io/badge/Open_Source-Flowkite-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu/Flowkite)
 
 <br/>
 
 ## 🚀 Projects Snapshot
 
-| 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce | 🤖 Machine Learning |
+| 🏗️ Web2 & ERP Systems | 🎨 Business & Commerce | 🤖 AI & Machine Learning |
 | :--- | :--- | :--- |
-| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
-| [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) |  [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection)  |
-| [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) |  |
+| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Flowkite**](https://github.com/itsnevu/Flowkite) |
+| [**Graciabox.id**](https://graciabox.id) | [**Floraindonesia.com**](https://floraindonesia.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
+| [**Socia.community**](https://socia.community) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) | [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection) |
 | [**Yrm.co.id**](https://yrm.co.id) | [**Damsgarade.id**](https://damsgarade.id) |  |
 | [**Reconstruction.id**](https://reconstruction.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) |  |
 | [**Fortunarack.id**](https://fortunarack.id) | [**Littleaivy.com**](https://littleaivy.com) |  |
