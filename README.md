@@ -18,7 +18,7 @@
 
 ## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
 
-Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products** — from idea to shipped — and exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
+Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products** from idea to shipped, and exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
 
 [![Products Shipped](https://img.shields.io/badge/Products_Shipped-15%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
 ![Idea to Ship](https://img.shields.io/badge/Mode-Idea_%E2%86%92_Shipped-000000?style=for-the-badge&logo=githubactions&logoColor=white)
