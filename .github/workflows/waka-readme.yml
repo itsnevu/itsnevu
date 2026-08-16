@@ -24,7 +24,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: waka
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           SHOW_TITLE: true
           BLOCKS: "░▒▓█"
           CODE_LANG: text
