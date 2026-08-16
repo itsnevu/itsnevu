@@ -129,6 +129,13 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 </div>
 
+<div align="center">
+
+<img alt="itsnevu's GitHub trophies" src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=onestar&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
 
 
 ## 🐍 Contribution Graph
