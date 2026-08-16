@@ -16,13 +16,25 @@
 
 <br/>
 
-## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" />
+## 👤 About Me <img src="./img/mona-whisper.gif" width="100px" align="right" alt="" />
 
 Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products** from idea to shipped, and exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
 
 [![Products Shipped](https://img.shields.io/badge/Products_Shipped-15%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
 ![Idea to Ship](https://img.shields.io/badge/Mode-Idea_%E2%86%92_Shipped-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 [![Open Source](https://img.shields.io/badge/Open_Source-Flowkite-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu/Flowkite)
+
+<br/>
+
+## 🛠️ Currently Building
+
+<div align="center">
+
+<a href="https://github.com/itsnevu/Flowkite">
+  <img alt="Flowkite - open-source AI browser agent that plans and acts locally in your browser" src="https://github-stats-extended.vercel.app/api/pin/?username=itsnevu&repo=Flowkite&theme=dark&hide_border=true" />
+</a>
+
+</div>
 
 <br/>
 
@@ -85,20 +97,35 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true" />
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true&disable_animations=true" />
+<img height="165em" alt="itsnevu's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true" />
+<img height="165em" alt="Most used languages by itsnevu" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true&disable_animations=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-teal-seven.vercel.app/?user=itsnevu&theme=dark&hide_border=true" />
+<img alt="itsnevu's contribution streak" src="https://github-readme-streak-stats-teal-seven.vercel.app/?user=itsnevu&theme=dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=onestar&no-frame=true&row=1&column=6" />
+<img alt="itsnevu's GitHub trophies" src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=onestar&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsnevu/itsnevu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsnevu/itsnevu/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating itsnevu's GitHub contribution grid" src="https://raw.githubusercontent.com/itsnevu/itsnevu/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -136,7 +163,7 @@ TypeScript   10 mins               ███████░░░░░░░░
 
 
 
-## Let's Connect <img src="./img/popcat.gif" width="100px" align="right" />
+## Let's Connect <img src="./img/popcat.gif" width="100px" align="right" alt="" />
 
 <div align="center">
 
@@ -166,7 +193,7 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 ### Profile Stats
 
-![](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/itsnevu?style=for-the-badge&color=000000)
 
@@ -176,6 +203,6 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 
 </div>
