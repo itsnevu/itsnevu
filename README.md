@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navygibran)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navygibran16@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnevu.dev)
 
 </div>
 
@@ -38,7 +37,26 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 <br/>
 
-## 🚀 Projects Snapshot
+## 🚀 Featured Work
+
+**[Flowkite](https://github.com/itsnevu/Flowkite)** — Open-source AI browser agent that plans and acts locally in your browser, and asks before it does anything that matters. `TypeScript` · `Apache-2.0`
+
+**[Godplan ERP](https://godplan-erp.godjahstudio.com/)** — Multi-tenant business platform running on a high-performance Go backend, with SSO and an operations dashboard. `Go`
+
+**[CoinSight](https://github.com/itsnevu/fe-coinsight)** — AI-powered on-chain research assistant: Solidity marketplace contracts, a FastAPI agent backend, and a web client. `Solidity` · `Python` · `TypeScript`
+
+**[Student Performance](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/)** — End-to-end ML pipeline predicting student graduation outcomes, shipped as a live prediction app. `Python`
+
+**[Credential Forgery Detection](https://github.com/itsnevu/credential-forgery-detection)** — Machine learning model for detecting forged credential documents. `Python`
+
+<br/>
+
+## 🚢 Shipped Client Projects
+
+<details>
+<summary><b>20 production sites and platforms</b> — click to expand</summary>
+
+<br/>
 
 | 🏗️ ERP & Platforms | 🏭 Manufacturing & Trade | 🛍️ Commerce & Services | 🤖 AI & Machine Learning |
 | :--- | :--- | :--- | :--- |
@@ -50,6 +68,8 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 | [**Izzi-bsd.com**](https://izzi-bsd.com) | [**Airon.site**](https://airon.site) | [**Nudelisius.com**](https://nudelisius.com) |  |
 |  |  | [**Ratherabeautystudio.com**](https://ratherabeautystudio.com) |  |
 |  |  | [**Damsgarage.id**](https://damsgarage.id) |  |
+
+</details>
 
 <br/>
 
@@ -98,7 +118,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 <div align="center">
 
-<img height="165em" alt="itsnevu's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true" />
+<img height="165em" alt="itsnevu's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&hide_rank=true&hide=stars" />
 <img height="165em" alt="Most used languages by itsnevu" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true&disable_animations=true" />
 
 </div>
@@ -109,13 +129,6 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 </div>
 
-<div align="center">
-
-<img alt="itsnevu's GitHub trophies" src="https://github-profile-trophy-two-indol.vercel.app/?username=itsnevu&theme=onestar&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
 
 
 ## 🐍 Contribution Graph
@@ -192,14 +205,6 @@ I'm always interested in collaborating on interesting projects or discussing tec
 ### 🧪 Current Lab Focus
 ![Project Status](https://img.shields.io/badge/Status-Extension_Cowork-white?style=for-the-badge&logo=target&logoColor=black)
 ![Learning](https://img.shields.io/badge/Learning-Machine_Learning-white?style=for-the-badge&logo=tensorflow&logoColor=black)
-
-<br/>
-
-### Profile Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/itsnevu?style=for-the-badge&color=000000)
 
 <br/>
 
