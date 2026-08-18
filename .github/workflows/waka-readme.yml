@@ -13,6 +13,13 @@ on:
     branches:
       - main
 
+# FIX 1: the same race guard snake.yml and pacman.yml already carry. This
+# workflow commits straight to main, so a scheduled run overlapping a
+# push-triggered run is the one remaining way it can fail on a non-fast-forward.
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     name: Update README with WakaTime Stats
@@ -20,7 +27,12 @@ jobs:
     environment: wakatime
 
     steps:
-      - uses: athul/waka-readme@master
+      # FIX 2: pinned for the same reason pacman.yml is -- @master is a floating
+      # branch ref, so an upstream push lands here unannounced. This SHA is what
+      # master points at today, so behaviour is unchanged.
+      # Deliberately NOT pinned to the v0.3.1 tag: master is 18 commits ahead and
+      # includes the PyGithub auth-deprecation fix, so the tag would be a regression.
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6 # master @ 2026-02-18
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: waka
