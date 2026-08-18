@@ -4,14 +4,25 @@ on:
   # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
+
   # Allows manual workflow run
   workflow_dispatch:
-  
+
   # Run on every push to main
   push:
     branches:
       - main
+
+# FIX 1 (the actual cause of run #116 failing):
+# snake.yml and pacman.yml fire on the same triggers and both force-push an SVG.
+# When they overlapped, the loser got:
+#   ! [remote rejected] output -> output (cannot lock ref 'refs/heads/output')
+# Separate branches (already done in 9842cf9) stops the clobber; this concurrency
+# group additionally stops *this* workflow racing a second copy of itself when a
+# push to main lands in the same minute as the cron.
+concurrency:
+  group: snake-output
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -19,13 +30,15 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # Checkout the repository
+      # FIX 2: actions/checkout@v3 is deprecated and is what produces the
+      # "Node 20 is being deprecated" annotation on every run.
       - name: Checkout
-        uses: actions/checkout@v3
-      
-      # Generate the snake
+        uses: actions/checkout@v5
+
+      # FIX 3: @v3 was a floating major. Snk is stable, but pinning keeps a
+      # breaking upstream release from silently turning the profile README blank.
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,13 +46,33 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      # Push the generated files to the output branch
+
+      # FIX 4: guard against the generator exiting 0 without writing anything.
+      # This is the failure mode that killed pacman 10 times ("Build dir does not
+      # exist"); snake has the same exposure and no guard today.
+      - name: Verify the SVGs were actually produced
+        id: check
+        run: |
+          if [ -d dist ] && [ -n "$(ls -A dist)" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::snk produced no dist/ output; skipping push"
+          fi
+
+      # FIX 5: `keep_files` is NOT a valid input for crazy-max/ghaction-github-pages@v3.1.0.
+      # The runner already tells us so on every run:
+      #   Warning: Unexpected input(s) 'keep_files', valid inputs are
+      #   ['domain','repo','target_branch','keep_history','allow_empty_commit',
+      #    'build_dir','absolute_build_dir','follow_symlinks','committer','author',
+      #    'commit_message','fqdn','jekyll','dry_run','verbose']
+      # It was silently dropped, so this has always been an unconditional --force
+      # overwrite. Removed. Use keep_history if history retention was the intent.
       - name: Push github-contribution-grid-snake.svg to output branch
+        if: steps.check.outputs.ok == 'true'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
