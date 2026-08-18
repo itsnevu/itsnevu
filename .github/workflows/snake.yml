@@ -68,9 +68,15 @@ jobs:
       #    'commit_message','fqdn','jekyll','dry_run','verbose']
       # It was silently dropped, so this has always been an unconditional --force
       # overwrite. Removed. Use keep_history if history retention was the intent.
+      # FIX 6: @v3.1.0 runs on Node 20, so every run is annotated
+      #   "Node.js 20 ... being forced to run on Node.js 24".
+      # v4.0.0 and v5.0.0 are both runtime-only majors (Node 20, then Node 24) --
+      # the inputs block in action.yml is unchanged from v3.1.0, so this is a
+      # drop-in bump and not a config change. Pinned to the exact tag rather than
+      # @v5 for the same reason snk is pinned above.
       - name: Push github-contribution-grid-snake.svg to output branch
         if: steps.check.outputs.ok == 'true'
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
