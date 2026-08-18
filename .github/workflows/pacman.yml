@@ -56,9 +56,12 @@ jobs:
       # FIX 4: `keep_files` is not a valid input for this action (see the
       # "Unexpected input(s) 'keep_files'" annotation on every run) and was being
       # silently ignored. Removed.
+      # FIX 5: same Node 20 deprecation annotation as snake.yml. v4.0.0 and
+      # v5.0.0 are runtime-only majors and the action's inputs are unchanged
+      # from v3.1.0, so this is a drop-in bump.
       - name: push pacman-contribution-graph.svg to the output branch
         if: steps.check.outputs.ok == 'true'
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output-pacman
           build_dir: dist
