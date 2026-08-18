@@ -8,7 +8,16 @@ on:
 
   push:
     branches:
-    - main
+      - main
+
+# FIX 1: same race guard as snake.yml. Historically this workflow failed with
+#   ! [remote rejected] output -> output (cannot lock ref 'refs/heads/output')
+# because it shared the output branch with Generate Snake. The branch split
+# (9842cf9) fixed the cross-workflow half; this stops self-collision when the
+# cron and a push to main land together.
+concurrency:
+  group: pacman-output
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -18,17 +27,40 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # FIX 2: @main is a floating branch ref, so upstream can change the output
+      # path with no warning. Ten of this workflow's fourteen failures were
+      # "Error: Build dir does not exist" — the action exits 0 having written
+      # nothing. Pinned to the commit that main already points at (2026-08-01),
+      # i.e. exactly the code that produced the last successful run, so this
+      # changes nothing today but stops an unannounced upstream push from
+      # breaking it tomorrow.
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # main @ 2026-08-01
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # FIX 3: this is the real fix for "Build dir does not exist". The generator
+      # succeeds-but-writes-nothing whenever the upstream contributions fetch comes
+      # back empty. Without this guard that turns into a red X on the repo; with it,
+      # the run is a no-op with a warning and the previous SVG stays live.
+      - name: Verify the SVG was actually produced
+        id: check
+        run: |
+          if [ -d dist ] && [ -n "$(ls -A dist)" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::pacman action produced no dist/ output; skipping push"
+          fi
 
+      # FIX 4: `keep_files` is not a valid input for this action (see the
+      # "Unexpected input(s) 'keep_files'" annotation on every run) and was being
+      # silently ignored. Removed.
       - name: push pacman-contribution-graph.svg to the output branch
+        if: steps.check.outputs.ok == 'true'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output-pacman
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
