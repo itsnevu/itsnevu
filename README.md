@@ -21,7 +21,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 [![Products Shipped](https://img.shields.io/badge/Products_Shipped-20%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
 ![Idea to Ship](https://img.shields.io/badge/Mode-Idea_%E2%86%92_Shipped-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-[![Open Source](https://img.shields.io/badge/Open_Source-Flowkite-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnevu/Flowkite)
+[![Flowkite](https://img.shields.io/badge/Free_to_Download-Flowkite-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flowkite.xyz)
 
 <br/>
 
@@ -29,8 +29,11 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 <div align="center">
 
-<a href="https://github.com/itsnevu/Flowkite">
-  <img alt="Flowkite - open-source AI browser agent that plans and acts locally in your browser" src="https://github-stats-extended.vercel.app/api/pin/?username=itsnevu&repo=Flowkite&theme=dark&hide_border=true" />
+<a href="https://flowkite.xyz">
+  <img alt="Flowkite - AI browser agent that plans and acts locally in your browser" src="https://img.shields.io/badge/Flowkite-AI_Web_Agent-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://chromewebstore.google.com/detail/flowkite-ai-web-agent-aut/kacmblccfhnfcjfpeageldmmbkocafab">
+  <img alt="Install Flowkite from Chrome Web Store" src="https://img.shields.io/badge/Install-Chrome_Web_Store-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -39,7 +42,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 ## 🚀 Featured Work
 
-**[Flowkite](https://github.com/itsnevu/Flowkite)** — Open-source AI browser agent that plans and acts locally in your browser, and asks before it does anything that matters. `TypeScript` · `Apache-2.0`
+**[Flowkite](https://flowkite.xyz)** — AI browser agent that plans and acts locally in your browser, and asks before it does anything that matters. Free to download — [get it on the Chrome Web Store](https://chromewebstore.google.com/detail/flowkite-ai-web-agent-aut/kacmblccfhnfcjfpeageldmmbkocafab). `TypeScript` · `Chrome Extension`
 
 **[Godplan ERP](https://godplan-erp.godjahstudio.com/)** — Multi-tenant business platform running on a high-performance Go backend, with SSO and an operations dashboard. `Go`
 
@@ -60,7 +63,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 | 🏗️ ERP & Platforms | 🏭 Manufacturing & Trade | 🛍️ Commerce & Services | 🤖 AI & Machine Learning |
 | :--- | :--- | :--- | :--- |
-| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Fortunarack.co.id**](https://fortunarack.co.id) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Flowkite**](https://github.com/itsnevu/Flowkite) |
+| [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Fortunarack.co.id**](https://fortunarack.co.id) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Flowkite**](https://flowkite.xyz) |
 | [**Socia.community**](https://socia.community) | [**Dutamesh.com**](https://dutamesh.com) | [**Floraindonesia.com**](https://floraindonesia.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
 | [**Reconstruction.id**](https://reconstruction.id) | [**Kusentangsel.com**](https://kusentangsel.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) | [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection) |
 | [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) | [**Littleaivy.com**](https://littleaivy.com) |  |
@@ -217,8 +220,7 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 ### Profile Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=itsnevu&label=Profile%20Views&color=000000&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
+![Profile views](https://img.shields.io/github/followers/itsnevu?style=for-the-badge&color=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/itsnevu?style=for-the-badge&color=000000)
 
 <br/>
