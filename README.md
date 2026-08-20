@@ -48,7 +48,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 
 **[CoinSight](https://github.com/itsnevu/fe-coinsight)** — AI-powered on-chain research assistant: Solidity marketplace contracts, a FastAPI agent backend, and a web client. `Solidity` · `Python` · `TypeScript`
 
-**[Student Performance](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/)** — End-to-end ML pipeline predicting student graduation outcomes, shipped as a live prediction app. `Python`
+**[Student Performance](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/)** — End-to-end ML pipeline predicting student graduation outcomes, presented through an interactive web demo. `Python`
 
 **[Credential Forgery Detection](https://github.com/itsnevu/credential-forgery-detection)** — Machine learning model for detecting forged credential documents. `Python`
 
@@ -64,7 +64,7 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 | 🏗️ ERP & Platforms | 🏭 Manufacturing & Trade | 🛍️ Commerce & Services | 🤖 AI & Machine Learning |
 | :--- | :--- | :--- | :--- |
 | [**Godplan ERP**](https://godplan-erp.godjahstudio.com/) | [**Fortunarack.co.id**](https://fortunarack.co.id) | [**Godjahstudio.com**](https://godjahstudio.com) | [**Flowkite**](https://flowkite.xyz) |
-| [**Socia.community**](https://socia.community) | [**Dutamesh.com**](https://dutamesh.com) | [**Floraindonesia.com**](https://floraindonesia.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
+|  | [**Dutamesh.com**](https://dutamesh.com) | [**Floraindonesia.com**](https://floraindonesia.com) | [**Student Performance**](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/) |
 | [**Reconstruction.id**](https://reconstruction.id) | [**Kusentangsel.com**](https://kusentangsel.com) | [**Nfopticalofficial.com**](https://nfopticalofficial.com) | [**Credential Forgery Detection**](https://github.com/itsnevu/credential-forgery-detection) |
 | [**Yrm.co.id**](https://yrm.co.id) | [**Miniaturkapal.com**](https://miniaturkapal.com) | [**Littleaivy.com**](https://littleaivy.com) |  |
 | [**Graciabox.id**](https://graciabox.id) | [**Orthobone.store**](https://orthobone.store) | [**Ubbonlinepartners.id**](https://ubbonlinepartners.id) |  |
