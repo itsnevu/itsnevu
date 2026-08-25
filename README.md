@@ -175,12 +175,12 @@ Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2025 - To: 23 August 2026
+From: 25 July 2025 - To: 24 August 2026
 
-TypeScript           107 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.53 %
+TypeScript           107 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.51 %
 Go                   27 hrs 58 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
 Svelte               23 hrs 8 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Other                17 hrs 11 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Other                17 hrs 18 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 SQL                  13 hrs 18 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
