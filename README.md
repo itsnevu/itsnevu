@@ -233,3 +233,4 @@ I'm always interested in collaborating on interesting projects or discussing tec
 <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 
 </div>
+
