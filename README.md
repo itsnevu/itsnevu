@@ -19,6 +19,23 @@
 
 Hey! I'm **itsnevu**, a **Builder** from Indonesia who loves **building products** from idea to shipped, and exploring **AI**, **Machine Learning**, **Deep Learning**, and **Automation**, turning complex ideas into intelligent, scalable systems.
 
+## Step Into My Desk
+
+<div align="center">
+
+<a href="https://navygibran.dev/">
+<img src="./img/desk-preview.gif" width="80%" style="border-radius: 10px;" alt="navygibran.dev - interactive 3D workspace" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_3D_Workspace-navygibran.dev-E8B34B?style=for-the-badge&logo=react&logoColor=black)](https://navygibran.dev/)
+
+<sub>An interactive 3D room, not a resume page. Click around the monitors, the whiteboard, the shelves - every object is a real part of my work.</sub>
+
+</div>
+
+
 [![Products Shipped](https://img.shields.io/badge/Products_Shipped-20%2B-000000?style=for-the-badge&logo=producthunt&logoColor=white)](#-projects-snapshot)
 ![Idea to Ship](https://img.shields.io/badge/Mode-Idea_%E2%86%92_Shipped-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 [![Flowkite](https://img.shields.io/badge/Free_to_Download-Flowkite-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flowkite.xyz)
