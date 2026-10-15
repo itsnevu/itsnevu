@@ -28,15 +28,15 @@ Right now I'm building **[Flowkite](https://flowkite.xyz)**, an AI browser agent
 
 ## Featured Work
 
-- **[Flowkite](https://flowkite.xyz)** — AI browser agent that plans and acts locally in your browser, and asks before it does anything that matters. [Get it on the Chrome Web Store](https://chromewebstore.google.com/detail/flowkite-ai-web-agent-aut/kacmblccfhnfcjfpeageldmmbkocafab). `TypeScript`
-- **[Curb](https://github.com/itsnevu/Curb)** — Guardrails and circuit breakers for AI agents: stops runaway loops, cost blowups and destructive tool calls with one policy engine. `TypeScript` · `Python`
-- **[Godplan ERP](https://godplan-erp.godjahstudio.com/)** — Multi-tenant business platform on a Go backend, with SSO and an operations dashboard. `Go`
-- **[CoinSight](https://github.com/itsnevu/fe-coinsight)** — AI-powered on-chain research assistant: Solidity marketplace contracts, a FastAPI agent backend and a web client. `Solidity` · `Python` · `TypeScript`
-- **[Credential Forgery Detection](https://github.com/itsnevu/credential-forgery-detection)** — ML + blockchain system that detects forged Indonesian diplomas and certificates, and anchors verified documents on-chain. `Python`
-- **[Student Performance](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/)** — End-to-end ML pipeline predicting student graduation outcomes, with an interactive web demo. `Python`
+- **[Flowkite](https://flowkite.xyz)**: AI browser agent that plans and acts locally in your browser, and asks before it does anything that matters. [Get it on the Chrome Web Store](https://chromewebstore.google.com/detail/flowkite-ai-web-agent-aut/kacmblccfhnfcjfpeageldmmbkocafab). `TypeScript`
+- **[Curb](https://github.com/itsnevu/Curb)**: Guardrails and circuit breakers for AI agents that stop runaway loops, cost blowups and destructive tool calls with one policy engine. `TypeScript` · `Python`
+- **[Godplan ERP](https://godplan-erp.godjahstudio.com/)**: Multi-tenant business platform on a Go backend, with SSO and an operations dashboard. `Go`
+- **[CoinSight](https://github.com/itsnevu/fe-coinsight)**: AI-powered on-chain research assistant with Solidity marketplace contracts, a FastAPI agent backend and a web client. `Solidity` · `Python` · `TypeScript`
+- **[Credential Forgery Detection](https://github.com/itsnevu/credential-forgery-detection)**: ML + blockchain system that detects forged Indonesian diplomas and certificates, and anchors verified documents on-chain. `Python`
+- **[Student Performance](https://student-performance-dj57-ptxezlcks-nepskuys-projects.vercel.app/)**: End-to-end ML pipeline predicting student graduation outcomes, with an interactive web demo. `Python`
 
 <details>
-<summary><b>Client projects</b> — 19 production sites (click to expand)</summary>
+<summary><b>Client projects</b> (19 production sites, click to expand)</summary>
 
 <br/>
 
