@@ -12,7 +12,7 @@
 
 ## About Me <img src="./img/mona-whisper.gif" width="100px" align="right" alt="" />
 
-Hey! I'm **itsnevu**, a product builder from Indonesia. I take ideas from first sketch to launch, mostly around **AI agents**, **machine learning** and **automation**.
+Hey! I'm **itsnevu**, a product builder. I take ideas from first sketch to launch, mostly around **AI agents**, **machine learning** and **automation**.
 
 Right now I'm building **[Flowkite](https://flowkite.xyz)**, an AI browser agent for Chrome.
 
