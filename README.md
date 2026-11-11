@@ -14,8 +14,6 @@
 
 Hey! I'm **itsnevu**, a product builder. I take ideas from first sketch to launch, mostly around **AI agents**, **machine learning** and **automation**.
 
-Right now I'm building **[Flowkite](https://flowkite.xyz)**, an AI browser agent for Chrome.
-
 **Open for:** freelance projects, collaborations and full-time roles.
 
 ## Tech Stack
@@ -42,6 +40,3 @@ Right now I'm building **[Flowkite](https://flowkite.xyz)**, an AI browser agent
 <div align="center">
 
 <img height="165em" alt="itsnevu's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=itsnevu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&hide_rank=true&hide=stars&v=2" />
-<img height="165em" alt="Most used languages by itsnevu" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsnevu&layout=compact&theme=dark&hide_border=true&disable_animations=true&v=2" />
-
-</div>
