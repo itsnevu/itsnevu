@@ -12,7 +12,7 @@
 
 ## About Me <img src="./img/mona-whisper.gif" width="100px" align="right" alt="" />
 
-Hey! I'm **itsnevu**, a product builder. I take ideas from first sketch to launch, mostly around **AI agents**, **machine learning** and **automation**.
+Hey! I'm **itsnevu**, a web developer. I build websites for businesses, mostly **company profiles**, **portfolio sites** and **custom web apps**.
 
 **Open for:** freelance projects, collaborations and full-time roles.
 
